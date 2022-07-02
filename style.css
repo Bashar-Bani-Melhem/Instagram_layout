@@ -209,6 +209,9 @@ h1 { font-weight:normal;
         display: grid;
         grid-template-columns: 1fr;
     }
+    .user_name{
+        font-size: 1.5rem;
+    }
 }
 
 
